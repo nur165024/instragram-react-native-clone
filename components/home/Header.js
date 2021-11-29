@@ -31,7 +31,6 @@ export default function Header() {
               top: -10,
               width: 25,
               height: 25,
-              lineHeight: 20,
               textAlign: "center",
               borderRadius: 30,
             }}
