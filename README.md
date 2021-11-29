@@ -2,4 +2,4 @@
 
 # -----------------------------------------------
 
-<img src="./assets/instragramImage.jpg" width="400" height="600" />
+<img src="./assets/instragramImage.jpg" width="400" height="auto" />
